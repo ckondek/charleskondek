@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<!-- https://www.campusspeicher.de/ -->
+<html lang="de">
+    <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+        <title>Campusspeicher GmbH - Webhosting, Server, Domains u. Homepage</title>
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="robots" content="index, follow">
+        <meta name="language" content="de">
+        <meta name="organization" content="Campusspeicher GmbH">
+        <link rel="shortcut icon" href="https://www.campusspeicher.de/favicon.png" type="image/x-icon">
+        <meta property="og:description" content=" Webhosting-Pakete mit Inklusivdomain, Domains, Homepage u. Server von Campusspeicher. Hosting-Lösungen für Einsteiger &amp; Profis. Jetzt kostenlos testen!">
+        <meta property="og:url" content="https://www.campusspeicher.de/">
+        <meta property="og:title" content="Domains, Webhosting, Homepage und Server von Campusspeicher">
+        <meta property="og:image" content="https://www.campusspeicher.de/external_media/logo-padded.png">
+        <meta property="og:locale" content="de_DE">
+        <link rel="stylesheet" type="text/css" href="https://static.campusspeicher.de/media/plesk-default//landing.css" media="screen, projection">
+        <link rel="stylesheet" type="text/css" href="https://static.campusspeicher.de/media/plesk-default/main.css" media="screen, projection">
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Montserrat">
+    </head>
+    <body class="">
+        <div class="bar-topline">
+            <div class="container">
+                <div class="row">
+</div>
+            </div>
+        </div>
+        <div class="background-teaser-bright">
+            <div class="container">
+                <div class="row">
+                    <div class="span12 col-md-12">
+                        <a class="no-ajaxy" href="https://www.campusspeicher.de/">
+                            <img class="bar-main-nav-logo" src="https://static.campusspeicher.de/media/plesk-default/logo.svg">
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="background-teaser-light ">
+            <div class="container">
+                <div class="col-md-12 heading-advanced space-b">
+                    <h2 class="detail-container" style="font-family: Montserrat; font-size: 24px; line-height: 32px;">Diese Domain wurde erfolgreich registriert.</h2>
+                    <p><p style="font-family: Montserrat; font-size: 16px; line-height: 24px;">Warum wird diese Seite angezeigt?<br><br>Diese Seite wurde automatisch erstellt. <br>Sie wird bei jeder neuen Domain hinterlegt und zeigt, dass die neue Domain erreichbar ist. <br>Ohne diese Platzhalter-Seite würden Besucher eine Fehlermeldung erhalten. <br><br>Als Kunde von Campusspeicher können Sie diese Domain in Ihrem Control Panel jederzeit selbst online konfigurieren (z.B. Web-Weiterleitungen, E-Mail-Einstellungen, Webspace hinzubuchen, DNS-Einträge ändern).&nbsp;</p></p>
+                </div>
+                <div class="row landing-product-list">
+                    <div class="col-sm-4 col-xs-12">
+                        <a href="https://www.campusspeicher.de/webhosting/">
+                            <img src="https://static.campusspeicher.de/media/plesk-default/web.png"/>
+                        </a>
+                        <h3 style="font-family: Montserrat; font-size: 24px; line-height: 32px;">Domains &amp; Webhosting</h3>
+                        <p style="font-family: Montserrat; font-size: 14px; line-height: 24px;">Website-Komplettpakete. </p>
+                        <p style="font-family: Montserrat; font-size: 14px; line-height: 24px;">Inklusive Domain, ideal für Ihre Webseite, Blog oder CMS.</p>
+                    </div>
+                    <div class="col-sm-4 col-xs-12">
+                        <a href="https://www.campusspeicher.de/managed-server/">
+                            <img src="https://static.campusspeicher.de/media/plesk-default/cloud.png"/>
+                        </a>
+                        <h3 style="font-family: Montserrat; font-size: 24px; line-height: 32px;">Managed Server</h3>
+                        <p style="font-family: Montserrat; font-size: 14px; line-height: 24px;">Ihr eigener Server ohne Administrations­aufwand. </p>
+                        <p style="font-family: Montserrat; font-size: 14px; line-height: 24px;">Wir übernehmen die Arbeit für Sie.</p>
+                    </div>
+                    <div class="col-sm-4 col-xs-12">
+                        <a href="https://www.campusspeicher.de/server/">
+                            <img src="https://static.campusspeicher.de/media/plesk-default/help.png"/>
+                        </a>
+                        <h3 style="font-family: Montserrat; font-size: 24px; line-height: 32px;">Virtual &amp; Root Server</h3>
+                        <p style="font-family: Montserrat; font-size: 14px; line-height: 24px;">Leistungsstarke Server.</p>
+                        <p style="font-family: Montserrat; font-size: 14px; line-height: 24px;"> Ideal für Online-Shops und anspruchsvolle Webanwendungen.</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="background-teaser-bright">
+            <div class="container">
+                <div class="row">
+</div>
+                <div class="row">
+</div>
+                <div class="row icon-grid icon-grid-blue">
+                    <div class="col-sm-1"></div>
+                    <div class="col-sm-1"></div>
+                    <div class="col-sm-1"></div>
+                    <div class="col-sm-1"></div>
+                    <div class="col-sm-1"></div>
+                </div>
+            </div>
+        </div>
+        <footer class="container">
+            <div class="col-md-12 text-center space-b" style="font-family: Montserrat;">
+                <a href="https://www.campusspeicher.de/" style="font-family: Montserrat; color: #000000;">© Alle Rechte vorbehalten | Campusspeicher GmbH</a>
+            </div>
+        </footer>
+        <!-- Wow - you've read it all! Interested in working with us? Toss us an email to info@campusspeicher.de and we'll see where and how to get the most out of your skill set. -->
+    </body>
+</html>
