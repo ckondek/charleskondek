@@ -13,6 +13,7 @@ var works=[
 
 
 $(document).ready(function(){
+  
   var operas = document.getElementById('operas')
   works.forEach(function(item,index){
     var row=document.createElement('div')
@@ -32,6 +33,7 @@ $(document).ready(function(){
     row.appendChild(div2)
     row.appendChild(div3)
     operas.appendChild(row)
+
 
 
   })
