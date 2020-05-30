@@ -46,7 +46,7 @@ html,body{
 #CharliePic{
   width: 100%;
   height: auto;
-  margin-bottom: 20px;
+  margin-bottom: 10px;
 }
 
 #EstherPic{
@@ -98,6 +98,15 @@ html,body{
 .right{
   width:30%;
   text-align: right;
+}
+#awards{
+  text-align: center;
+  margin-top: 100px;
+}
+#awardsTitle, #contactTitle{
+  text-align: center;
+  color: red;
+
 }
 
 #contactInfo{

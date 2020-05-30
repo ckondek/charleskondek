@@ -5,7 +5,8 @@ var works=[
             {'opera':'ESTHER','place':'NEW YORK CITY OPERA<br>AT LINCOLN CENTER', 'when':'OCT 1990','composer':'Hugo Weisgall'},
             {'opera':'BORGIA INFAMI','place':'WINTER OPERA ST.LOUIS', 'when':'OCT 2017','composer':'Harold Blumenfeld'},
             {'opera':'BETWEEN TWO WORLDS','place':'LYRIC OPERA OF CHICAGO<br>BIELFELD GERMANY', 'when':'1997','composer':'Shulamit Ran'},
-            {'opera':'SEASONS IN HELL','place':'CORBETT THEATER, CINCINATTI', 'when':'FEB 1996','composer':'Harold Blumenfeld'}
+            {'opera':'SEASONS IN HELL','place':'CORBETT THEATER, CINCINATTI', 'when':'FEB 1996','composer':'Harold Blumenfeld'},
+            {'opera':'THE FAN','place':'LYRIC OPERA OF CHICAGO', 'when':'FEB 1996','composer':'Lee Goldstein'},
           ];
 
 
@@ -13,7 +14,7 @@ var works=[
 
 
 $(document).ready(function(){
-  
+
   var operas = document.getElementById('operas')
   works.forEach(function(item,index){
     var row=document.createElement('div')
@@ -23,7 +24,7 @@ $(document).ready(function(){
     var div2=document.createElement('h3')
     div2.classList.add('middle')
     var div3=document.createElement('h3')
-      div3.classList.add('right')
+    div3.classList.add('right')
     div1.innerHTML=item.opera
 
     div2.innerHTML=item.place
@@ -42,13 +43,6 @@ $(document).ready(function(){
     $('html, body').animate({
        scrollTop: $($.attr(this, 'href')).offset().top -10}, 1500);
      })
-
-
-
-
-
-
-
 })
 
 
