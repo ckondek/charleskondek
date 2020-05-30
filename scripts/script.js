@@ -9,7 +9,7 @@ var works=[
             {'opera':'BETWEEN TWO WORLDS','place':'LYRIC OPERA OF CHICAGO<br>BIELFELD GERMANY', 'when':'1997','composer':'Shulamit Ran'},
             {'opera':'SEASONS IN HELL','place':'CORBETT THEATER, CINCINATTI', 'when':'FEB 1996','composer':'Harold Blumenfeld'},
             {'opera':'THE FAN','place':'LYRIC OPERA OF CHICAGO', 'when':'FEB 1996','composer':'Lee Goldstein'},
-            {'opera':'THE ITALIAN STRAW HAT','place':'SANTA FE OPERA', 'when':'-','composer':'NINO ROTA'},
+            {'opera':'THE ITALIAN STRAW HAT','place':'SANTA FE OPERA', 'when':'-','composer':'Nino Rota'},
           ];
 
 
