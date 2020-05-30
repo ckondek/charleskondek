@@ -1,8 +1,10 @@
 
 
 var works=[
-            {'opera':'ANNE FRANK', 'place':'INDIANA UNIVERSITY','when':'UPCOMING','composer':'Shulamit Ran'},
+
             {'opera':'ESTHER','place':'NEW YORK CITY OPERA<br>AT LINCOLN CENTER', 'when':'OCT 1990','composer':'Hugo Weisgall'},
+            {'opera':'ANNE FRANK', 'place':'INDIANA UNIVERSITY','when':'UPCOMING','composer':'Shulamit Ran'},
+
             {'opera':'BORGIA INFAMI','place':'WINTER OPERA ST.LOUIS', 'when':'OCT 2017','composer':'Harold Blumenfeld'},
             {'opera':'BETWEEN TWO WORLDS','place':'LYRIC OPERA OF CHICAGO<br>BIELFELD GERMANY', 'when':'1997','composer':'Shulamit Ran'},
             {'opera':'SEASONS IN HELL','place':'CORBETT THEATER, CINCINATTI', 'when':'FEB 1996','composer':'Harold Blumenfeld'},
