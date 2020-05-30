@@ -109,8 +109,19 @@ html,body{
 
 }
 
-#contactInfo,#maillink{
+#contactInfo{
   margin-top:70px;
+  text-align: center;
+  color:lightgrey;
+}
+#contactInfo a{
+  
+  text-align: center;
+  color:lightgrey;
+}
+
+#contactInfo a:hover{
+
   text-align: center;
   color:lightgrey;
 }
