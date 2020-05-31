@@ -8,14 +8,15 @@ var works=[
             {'opera':'SEASONS IN HELL','place':'CORBETT THEATER, CINCINATTI<br>Albany Records', 'when':'FEB 1996','composer':'Harold Blumenfeld'},
             {'opera':'THE FAN','place':'LYRIC OPERA OF CHICAGO', 'when':'FEB 1996','composer':'Lee Goldstein'},
             {'opera':'GINA<br> AND THE PRINCE OF MINTZ','place':'NYS THEATER INSTITUTE, TROY, NY', 'when':'-','composer':'Steve Liebman'},
-            {'opera':'E','place':'NYS THEATER INSTITUTE, TROY, NY', 'when':'-','composer':'Steve Liebman'}
+            {'opera':'EVOL SPELLED<br>BACKWARDS IS LOVE','place':'GOETHE HAUS, DARMSTADT', 'when':'-','composer':'Hugh McGuiness'}
           ];
 
 var translations=[
-            {'opera':'ITALIAN STRAW HAT','place':'SANTA FE OPERA', 'when':'','composer':'Nino Rota'},
-            {'opera':'WIENER BLUT','place':'WASHINGTON (DC) NATIONAL OPERA', 'when':'','composer':'Johann Strauss Jr.'},
-            {'opera':'DESPERATE HUSBAND', 'place':'SPOLETO FESTIVAL','when':'','composer':'Domenico Cimarosa'},
-            {'opera':'BARBE-BLEU','place':'GLIMMERGLASS OPERA', 'when':'','composer':'Jacques Offenbach'}
+            {'opera':'THE ITALIAN STRAW HAT','place':'SANTA FE OPERA', 'when':'','composer':'Nino Rota'},
+            {'opera':'WIENER BLUT','place':'WASHINGTON (DC) NATIONAL OPERA', 'when':'','composer':'Johann Strauss, II'},
+            {'opera':'THE DESPERATE HUSBAND', 'place':'SPOLETO FESTIVAL','when':'','composer':'Domenico Cimarosa'},
+            {'opera':'BARBE-BLEU<br>THE GRAND DUCHESS','place':'GLIMMERGLASS OPERA', 'when':'','composer':'Jacques Offenbach'},
+            {'opera':'VERONIQUE','place':'OHIO LIGHT OPERA<br>Newport Classics', 'when':'','composer':'ANDRÉ MESSAGER'}
 
           ];
 
