@@ -1,19 +1,20 @@
 
 
 var works=[
-            {'opera':'ESTHER','place':'NEW YORK CITY OPERA<br>AT LINCOLN CENTER', 'when':'OCT 1990','composer':'Hugo Weisgall'},
+            {'opera':'ESTHER','place':'NEW YORK CITY OPERA<br>at LINCOLN CENTER', 'when':'OCT 1990','composer':'Hugo Weisgall'},
             {'opera':'ANNE FRANK', 'place':'INDIANA UNIVERSITY','when':'UPCOMING','composer':'Shulamit Ran'},
-            {'opera':'BORGIA INFAMI','place':'WINTER OPERA ST.LOUIS', 'when':'OCT 2017','composer':'Harold Blumenfeld'},
-            {'opera':'BETWEEN TWO WORLDS','place':'LYRIC OPERA OF CHICAGO<br>BIELFELD GERMANY', 'when':'1997','composer':'Shulamit Ran'},
-            {'opera':'SEASONS IN HELL','place':'CORBETT THEATER, CINCINATTI', 'when':'FEB 1996','composer':'Harold Blumenfeld'},
+            {'opera':'BORGIA INFAMI','place':'WINTER OPERA, ST.LOUIS', 'when':'OCT 2017','composer':'Harold Blumenfeld'},
+            {'opera':'BETWEEN TWO WORLDS','place':'LYRIC OPERA OF CHICAGO<br>BIELFELD, GERMANY', 'when':'1997','composer':'Shulamit Ran'},
+            {'opera':'SEASONS IN HELL','place':'CORBETT THEATER, CINCINATTI<br>Albany Records', 'when':'FEB 1996','composer':'Harold Blumenfeld'},
             {'opera':'THE FAN','place':'LYRIC OPERA OF CHICAGO', 'when':'FEB 1996','composer':'Lee Goldstein'},
-            {'opera':'GINA AND THE PRINCE OF MINTZ','place':'NYS THEATER INSTITUTE, TROY, NY', 'when':'-','composer':'Steve Liebman'}
+            {'opera':'GINA<br> AND THE PRINCE OF MINTZ','place':'NYS THEATER INSTITUTE, TROY, NY', 'when':'-','composer':'Steve Liebman'},
+            {'opera':'E','place':'NYS THEATER INSTITUTE, TROY, NY', 'when':'-','composer':'Steve Liebman'}
           ];
 
 var translations=[
-            {'opera':'THE ITALIAN STRAW HAT','place':'SANTA FE OPERA', 'when':'','composer':'Nino Rota'},
-            {'opera':'WIENER BLUT','place':'WASHINGTON NATIONAL OPERA', 'when':'','composer':'Johann Strauss'},
-            {'opera':'THE DESPERATE HUSBAND', 'place':'SPOLETO FESTIVAL','when':'','composer':'Domenico Cimarosa'},
+            {'opera':'ITALIAN STRAW HAT','place':'SANTA FE OPERA', 'when':'','composer':'Nino Rota'},
+            {'opera':'WIENER BLUT','place':'WASHINGTON (DC) NATIONAL OPERA', 'when':'','composer':'Johann Strauss Jr.'},
+            {'opera':'DESPERATE HUSBAND', 'place':'SPOLETO FESTIVAL','when':'','composer':'Domenico Cimarosa'},
             {'opera':'BARBE-BLEU','place':'GLIMMERGLASS OPERA', 'when':'','composer':'Jacques Offenbach'}
 
           ];
