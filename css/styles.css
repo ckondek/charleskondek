@@ -103,25 +103,15 @@ html,body{
   text-align: center;
   margin-top: 100px;
 }
-#awardsTitle, #contactTitle{
+.headline{
+  margin-top: 50px;
   text-align: center;
   color: red;
 
 }
 
-#contactInfo{
-  margin-top:70px;
+#contact{
+  margin-top: 50px;
   text-align: center;
-  color:lightgrey;
-}
-#contactInfo a{
-  
-  text-align: center;
-  color:lightgrey;
-}
-
-#contactInfo a:hover{
-
-  text-align: center;
-  color:lightgrey;
+  color: white;
 }
