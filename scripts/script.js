@@ -9,7 +9,7 @@ var works=[
             {'opera':'SEASONS IN HELL','place':'CORBETT THEATER, CINCINATTI', 'when':'FEB 1996','composer':'Harold Blumenfeld'},
             {'opera':'THE FAN','place':'LYRIC OPERA OF CHICAGO', 'when':'FEB 1996','composer':'Lee Goldstein'},
             {'opera':'THE ITALIAN STRAW HAT','place':'SANTA FE OPERA', 'when':'-','composer':'Nino Rota'},
-            {'opera':'GINA AND THE PRINCE OF MINTZ','place':'NYS THEATER INSTITUTES, TROY, NY', 'when':'-','composer':'Steve Liebman'},
+            {'opera':'GINA AND THE PRINCE OF MINTZ','place':'NYS THEATER INSTITUTE, TROY, NY', 'when':'-','composer':'Steve Liebman'},
           ];
 
 
