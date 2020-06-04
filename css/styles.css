@@ -92,3 +92,9 @@ section.centered{
 .headline{
   color:red;
 }
+.smallTop{
+  margin-top: 4px;
+}
+.smallBottom{
+  margin-bottom: 4px;
+}
