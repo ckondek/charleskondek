@@ -51,6 +51,12 @@ section.centered{
   margin: 20px;
 
 }
+#CharlieTux{
+  width: 15vw;
+  height: auto;
+
+  mmargin: auto;
+}
 
 
 .textContainer{
@@ -97,4 +103,12 @@ p.smallTop{
 }
 h3.smallBottom{
   margin-bottom: 4px;
+}
+
+a#maillink{
+  color:red;
+
+}
+div#footer{
+  height: 10vh;
 }
