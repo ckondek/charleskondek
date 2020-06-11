@@ -7,7 +7,8 @@ var works=[
             {'opera':'BETWEEN TWO WORLDS','place':'LYRIC OPERA<br> OF CHICAGO<br>BIELEFELD, GERMANY', 'when':'1997','composer':'Shulamit Ran'},
             {'opera':'SEASONS IN HELL','place':'CORBETT THEATER, CINCINATTI<br>Albany Records', 'when':'FEB 1996','composer':'Harold Blumenfeld'},
             {'opera':'THE FAN','place':'LYRIC OPERA<br> OF CHICAGO', 'when':'FEB 1996','composer':'Lee Goldstein'},
-            {'opera':'GINA and<br>The PRINCE of MINTZ','place':'NYS THEATER INSTITUTE, TROY, NY', 'when':'-','composer':'Steve Liebman'},
+            {'opera':'WILL YOU MARRY ME?','place':'OPERA ENSEMBLE OF NEW YORK<br>Theodore Presser Company', 'when':'1989','composer':'Hugo Weisgall'},
+            {'opera':'GINA and<br>the PRINCE of MINTZ','place':'NYS THEATER INSTITUTE, TROY, NY', 'when':'-','composer':'Steve Liebman'},
             {'opera':'EVOL SPELLED<br>BACKWARDS<br> IS LOVE','place':'GOETHE HAUS, DARMSTADT, GERMANY', 'when':'-','composer':'Hugh McGuiness'}
           ];
 
@@ -16,7 +17,8 @@ var translations=[
             {'opera':'WIENER BLUT','place':'WASHINGTON (DC) NATIONAL OPERA', 'when':'','composer':'Johann Strauss, II'},
             {'opera':'The DESPERATE HUSBAND', 'place':'SPOLETO FESTIVAL','when':'','composer':'Domenico Cimarosa'},
             {'opera':'The GRAND DUCHESS<br>BARBE-BLEU','place':'GLIMMERGLASS OPERA', 'when':'','composer':'Jacques Offenbach'},
-            {'opera':'VÉRONIQUE','place':'OHIO LIGHT OPERA<br>Newport Classics', 'when':'','composer':'André Messager'}
+            {'opera':'VÉRONIQUE','place':'OHIO LIGHT OPERA<br>Newport Classics', 'when':'','composer':'André Messager'},
+            {'opera':'ABDUCTION FROM THE SERAGLIO','place':'OPERA GROUP OF BOSTON<br>(for Beverly Sills)', 'when':'','composer':'W. A. Mozart'},
 
           ];
 
