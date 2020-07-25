@@ -6,7 +6,7 @@ var works=[
             {'opera':'BORGIA INFAMI','place':'WINTER OPERA, ST.LOUIS', 'when':'OCT 2017','composer':'Harold Blumenfeld'},
             {'opera':'BETWEEN TWO WORLDS','place':'LYRIC OPERA<br> OF CHICAGO<br>BIELEFELD, GERMANY', 'when':'1997','composer':'Shulamit Ran'},
             {'opera':'SEASONS IN HELL','place':'CORBETT THEATER, CINCINATTI<br>Albany Records', 'when':'FEB 1996','composer':'Harold Blumenfeld'},
-            {'opera':'THE FAN<br><small>(also Director)</small>','place':'LYRIC OPERA<br> OF CHICAGO<br><small>Lyric\'s breezy <strong>The Fan</strong> stirs<br>fresh air. <br>Chicago Sun Times</small>', 'when':'FEB 1996','composer':'Lee Goldstein'},
+            {'opera':'THE FAN<br><small>(also Director)</small>','place':'LYRIC OPERA<br> OF CHICAGO<br><small>Lyric\'s breezy <bold>The Fan</bold><br>stirs fresh air. <br>Chicago Sun Times</small>', 'when':'FEB 1996','composer':'Lee Goldstein'},
             {'opera':'WILL YOU MARRY ME?','place':'OPERA ENSEMBLE OF NEW YORK<br>Theodore Presser Company', 'when':'1989','composer':'Hugo Weisgall'},
             {'opera':'GINA and<br>the PRINCE of MINTZ','place':'NYS THEATER INSTITUTE, TROY, NY', 'when':'-','composer':'Steve Liebman'},
             {'opera':'EVOL SPELLED<br>BACKWARDS<br> IS LOVE','place':'GOETHE HAUS, DARMSTADT, GERMANY', 'when':'-','composer':'Hugh McGuiness'}
