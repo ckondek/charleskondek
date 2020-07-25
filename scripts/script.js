@@ -9,7 +9,8 @@ var works=[
             {'opera':'THE FAN<br><small>(also Director)</small>','place':'LYRIC OPERA<br> OF CHICAGO<br><small>Lyric\'s breezy <bold>The Fan</bold><br>stirs fresh air. <br>Chicago Sun Times</small>', 'when':'FEB 1996','composer':'Lee Goldstein'},
             {'opera':'WILL YOU MARRY ME?','place':'OPERA ENSEMBLE OF NEW YORK<br>Theodore Presser Company', 'when':'1989','composer':'Hugo Weisgall'},
             {'opera':'GINA and<br>the PRINCE of MINTZ','place':'NYS THEATER INSTITUTE, TROY, NY', 'when':'-','composer':'Steve Liebman'},
-            {'opera':'EVOL SPELLED<br>BACKWARDS<br> IS LOVE','place':'GOETHE HAUS, DARMSTADT, GERMANY', 'when':'-','composer':'Hugh McGuiness'}
+            {'opera':'EVOL SPELLED<br>BACKWARDS<br> IS LOVE','place':'GOETHE HAUS, DARMSTADT, GERMANY', 'when':'-','composer':'Hugh McGuiness'},
+            {'opera':'MARRIAGE OF<br>THE GROCER OF SEVILLE','place':'WGBH-TV CHANNEL 2, BOSTON', 'when':'-','composer':'Greg Saeger'}
           ];
 
 var translations=[
